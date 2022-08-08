@@ -3,7 +3,7 @@
 Telefon, Texnologiya avadanlıqları, Market, Yanğın doldurma stansiyaları və s obyektlər üçün proqram.
 
 
-![Logo](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/tap1%20(1).jpg?raw=true)
+![Logo](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/tap1%20(1).jpg?raw=true)
 
     
 
@@ -53,21 +53,21 @@ Telefon, Texnologiya avadanlıqları, Market, Yanğın doldurma stansiyaları v�
   
 ## Ekran Təsvirləri
 
-![Giriş səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/TapSat_GirisSehifesi.png?raw=true)
+![Giriş səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/TapSat_GirisSehifesi.png?raw=true)
 
 
-![Satış səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/Satis_sehifesi.png?raw=true)
+![Satış səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/Satis_sehifesi.png?raw=true)
 
 
-![Satış səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/SebteElaveEdildi.png?raw=true)
+![Satış səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/SebteElaveEdildi.png?raw=true)
 
-![Satışlarin sıralanması səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/Isarelenmis.png?raw=true)
+![Satışlarin sıralanması səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/Isarelenmis.png?raw=true)
 
-![Satış səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/SebteElaveEdildi.png?raw=true)
+![Satış səhifəsi](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/SebteElaveEdildi.png?raw=true)
 
-![Bonus kartların parametrləri](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/BonusKartParametrleri.png?raw=true)
+![Bonus kartların parametrləri](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/BonusKartParametrleri.png?raw=true)
 
-![Məhsulların parametrləri](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/Mehsullarin_PAramterleri.png?raw=true)
+![Məhsulların parametrləri](https://github.com/Cabbar-Allahverdiyev/TapSat_Readme/blob/main/Reaadme_Images/Mehsullarin_PAramterleri.png?raw=true)
 
 
 
