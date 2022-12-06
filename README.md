@@ -1,9 +1,11 @@
-# TapSat
+# TapSat 
 
 Telefon, Texnologiya avadanlıqları, Market, Yanğın doldurma stansiyaları və s obyektlər üçün proqram.
 
 
-![Logo](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/TapsatLogo.svg?raw=true)
+<img src="https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/TapsatLogo.svg?raw=true"  width="100" > 
+
+<!-- ![Logo](https://github.com/Cabbar-Allahverdiyev/TapSat/blob/master/Reaadme_Images/TapsatLogo.svg?raw=true) -->
 
     
 
